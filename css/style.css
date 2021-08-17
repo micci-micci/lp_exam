@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+html {
+  font-size: 100%;
+}
+body {
+  margin: 0;
+  line-height: 1.7;
+  color: #000080;
+}
