@@ -8,3 +8,37 @@ body {
   line-height: 1.7;
   color: #000080;
 }
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+.home_header {
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper {
+  max-width: 100%;
+  margin: 0;
+  padding: 0 2%;
+}
+.logo {
+  width: 100px;
+  margin-top: 14px;
+}
+.home_menu {
+  display: flex;
+  margin-top: 20px;
+  list-style: none;
+}
+.home_menu li {
+  margin-left: 20px;
+}
+.home_menu a {
+  color: #A9A9A9;
+}
+
+.home_menu a:hover {
+  color: #FFE4E1;
+}
