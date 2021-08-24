@@ -65,7 +65,7 @@ img {
 }
 .jp_text {
   position: absolute;
-  top: 50%;
+  top: 65%;
   left: 20%;
   color: #FF1493;
   font-size: 16px; 
@@ -76,7 +76,7 @@ img {
 }
 .since {
   position: absolute;
-  top: 58%;
+  top: 72%;
   left: 20%;
   color: #808080;
   font-size: 8px;
